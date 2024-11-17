@@ -28,3 +28,6 @@ Simplify your document interactions with MultiPDF. Say goodbye to time-consuming
 ## Project WorkFlow
 
 ![image](https://github.com/user-attachments/assets/54b7de7d-af92-41d3-940e-1d626a239818)
+
+## Preview
+![image](botPreview.png)
