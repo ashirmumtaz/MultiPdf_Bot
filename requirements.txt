@@ -10,3 +10,4 @@ langchain_community
 pydantic
 pydantic-core
 sentence_transformers
+langchain-text-splitters
